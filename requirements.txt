@@ -1,21 +1,16 @@
-# Base LangChain Packages
 langchain
+langchain-google-genai
 langchain-community
 langchain-core
 langchain-text-splitters
+langchainhub
+pypdf
+chromadb
 python-dotenv
 ipykernel
-ipywidgets
-
-# LLM Provider Integrations
-langchain-groq
-langchain-google-genai
-
-# RAG & Processing Tools
-youtube-transcript-api
-faiss-cpu
 tiktoken
-pypdf
+pandas
+
 
 # Optional: For open-source embeddings (e.g., HuggingFace)
 langchain-huggingface
