@@ -5,9 +5,6 @@
 [![LLM](https://img.shields.io/badge/LLM-Gemini_2.5_Flash-orange.svg)](https://deepmind.google/technologies/gemini/)
 
 
-
-# Agentic RAG for University Information Assistance (KazNU)
-
 ## Overview
 
 This project presents a **Retrieval-Augmented Generation (RAG) based AI assistant** designed to support students of Al-Farabi Kazakh National University (KazNU) by providing accurate information extracted from official university documents.
